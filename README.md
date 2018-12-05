@@ -6,7 +6,7 @@ Python 3.5.6
 
 Dentro da pasta onde foi clonado o repositório rode o seguinte comando:
 
-- python sorting_service/__init__.py
+- python sorting_service/\_\_init\_\_.py
 
 Opcionalmente pode ser passado os seguintes parâmetros:
 
