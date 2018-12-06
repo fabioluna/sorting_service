@@ -1,0 +1,16 @@
+{
+    "keys": [
+        {
+            "key": "edition",
+            "reverse": true
+        },
+        {
+            "key": "author",
+            "reverse": true
+        },
+        {
+            "key": "tittle",
+            "reverse": false
+        }
+    ]
+}
